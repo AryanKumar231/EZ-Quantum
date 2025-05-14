@@ -85,7 +85,7 @@ Headers: Authorization: Bearer <token>
 
 ##Response
 {
-  "download_link": "http://localhost:8000/media/uploads/<uuid>",
+  "download_link": "http://localhost:8000/media/uploads/uuid",
   "message": "success"
 }
 
